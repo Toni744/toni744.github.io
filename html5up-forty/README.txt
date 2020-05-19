@@ -2,7 +2,7 @@ Personal Portfolio
 html5up.net | @ajlkn
 
 
-This is my latest and greatest addition to my Github.
+This is the latest and greatest addition to my Github.
  It's built around a grid of "image tiles" that are
 set up to smoothly transition to secondary landing pages (for which a separate page
 template is provided), and includes a number of neat effects (check out the menu!),
