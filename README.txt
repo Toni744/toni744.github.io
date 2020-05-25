@@ -1,5 +1,5 @@
 Personal Portfolio
-html5up.net | @ajlkn
+
 
 
 This is the latest and greatest addition to my Github.
